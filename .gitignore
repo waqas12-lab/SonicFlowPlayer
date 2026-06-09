@@ -1,0 +1,11 @@
+build/
+*.app
+*.dmg
+*.o
+*.obj
+*.exe
+*.user
+.DS_Store
+CMakeCache.txt
+CMakeFiles/
+.vscode/

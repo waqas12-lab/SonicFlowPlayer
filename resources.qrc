@@ -1,0 +1,6 @@
+<RCC>
+ <qresource prefix="/assets">
+  <file>assets/app_icon.png</file>
+  <file>assets/SonicFlowPlayer.ico</file>
+ </qresource>
+</RCC>
